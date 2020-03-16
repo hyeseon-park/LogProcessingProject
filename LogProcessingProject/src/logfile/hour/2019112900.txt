@@ -1,0 +1,3 @@
+60 - - GET /internal/healthcheck
+12 127.0.0.1 - GET /
+12 127.0.0.1 - GET /login
